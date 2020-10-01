@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppDataBindingExample</string>
+    <string name="article_title">Article Title</string>
+    <string name="article_description">This is the description for the article</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
